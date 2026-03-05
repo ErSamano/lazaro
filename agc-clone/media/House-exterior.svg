@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 700'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#7d5a50'/><stop offset='100%' stop-color='#d8c3a5'/></linearGradient></defs>
+<rect width='1200' height='700' fill='url(#g)'/>
+<rect x='80' y='280' width='1040' height='320' fill='rgba(255,255,255,0.15)'/>
+<polygon points='120,280 600,90 1080,280' fill='rgba(0,0,0,0.22)'/>
+<text x='600' y='650' text-anchor='middle' fill='white' font-size='60' font-family='Arial' letter-spacing='6'>House-exterior</text>
+</svg>
